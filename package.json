@@ -1,0 +1,28 @@
+{
+  "name": "ride_scheduler_server",
+  "version": "1.0.0",
+  "description": "ride scheduler",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarboleda1/ride_scheduler_server.git"
+  },
+  "keywords": [
+    "node",
+    "node-schedule"
+  ],
+  "author": "Anton Arboleda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarboleda1/ride_scheduler_server/issues"
+  },
+  "homepage": "https://github.com/aarboleda1/ride_scheduler_server#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "node-schedule": "^1.2.1"
+  }
+}
