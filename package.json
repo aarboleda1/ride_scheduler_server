@@ -23,6 +23,9 @@
   "homepage": "https://github.com/aarboleda1/ride_scheduler_server#readme",
   "dependencies": {
     "express": "^4.15.2",
-    "node-schedule": "^1.2.1"
+    "lyft-api": "github:mnemonicflow/lyft-js",
+    "node-fetch": "^1.6.3",
+    "node-schedule": "^1.2.1",
+    "path": "^0.12.7"
   }
 }
